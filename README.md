@@ -1,1 +1,2 @@
 # khinkaliHunter
+Pixel platformer

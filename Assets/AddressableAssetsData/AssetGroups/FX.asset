@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FX
+  m_EditorClassIdentifier: 
+  m_GroupName: FX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c3fc827f7c7df4610b335a8f65d3dfff
+  m_SerializeEntries:
+  - m_GUID: fcf6efe89a8c341fa90e49478b8b4f0d
+    m_Address: Contract
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: c981d2996bd014b19aa4b6dcbde03a9b
+    m_Address: Damage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: f701c87168f45408cac9e5e2709784f6
+    m_Address: Defence
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: a875c04a87607452e95f0c72fc52f940
+    m_Address: Eat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: 79994649fabd34e4788dbcad79420feb
+    m_Address: Jump
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: 4d709201d0a5b4e38beb0debf5f9896a
+    m_Address: Portal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: ecdbf35d745194f8eacaf4e78f302a90
+    m_Address: Spawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: ee10792c98a9d41fcb73c8e3c98e782e
+    m_Address: Speed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: f37ae49c7a5a1407a9b43ba0e0652f9f
+    m_Address: JumpDust
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6fccad4d36e484b74bf00bff06fcab4d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fd412997d6d5941c087f2e7a32799d34, type: 2}
+    - {fileID: 11400000, guid: acbe10aef1dd8469291a94f33e05b6fa, type: 2}

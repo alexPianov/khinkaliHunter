@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Decorations
+  m_EditorClassIdentifier: 
+  m_GroupName: Decorations
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9ad50da4903cc474a8c93224fb8177df
+  m_SerializeEntries:
+  - m_GUID: 7fa2e4d52d633441592e7563353103d3
+    m_Address: Ground_Bali_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 35523782644b94880aa3cb88c39da638
+    m_Address: Ground_Bali_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 2c67eb8f87881456daacbdd18a9f0010
+    m_Address: Ground_Bali_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: f01e9af226f6248f88530febabe89d42
+    m_Address: Ground_Bali_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 31a747ae1eaa3428da2c22fc61513f84
+    m_Address: Ground_Bali_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: b1f67975d86cb4bec988bcb629256424
+    m_Address: Ground_Bali_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: b1bb2658c5aac4b74ab4ae3f60fe0209
+    m_Address: Ground_Bali_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: a5487beb3166340609e780a651c54f0c
+    m_Address: Ground_Bali_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: d23c55ad181354ef9b25fea8b093d366
+    m_Address: Ground_Bali_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 44da2c8736a4f4a2594a37ac1ed03f21
+    m_Address: Ground_Bali_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 7257d13cba4c54db8a708ea5b8960dbb
+    m_Address: Ground_Bali_11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: b5e18b9015bfd4319856dc8e1f262577
+    m_Address: Ground_Bali_12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 462bc198aa0184cdcbdd716fbc747c43
+    m_Address: Ground_Standart_12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 6a9676097754e4effbf516eb9ffa6495
+    m_Address: Ground_Standart_11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 6814e29b26f3b41c4b7583dd8aa3c39f
+    m_Address: Ground_Standart_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 368db0ae0a6154b5a83fd46701befcef
+    m_Address: Ground_Standart_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: aa4757be80c744d32b68d7ae3d1e7421
+    m_Address: Ground_Standart_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: be86659e2ad3e43119a7ba43ff438e23
+    m_Address: Ground_Standart_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: e270416915b3d483a8c6b8b419c25dcf
+    m_Address: Ground_Standart_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 43e3234cb22a24c7f9b3ff0f5760459f
+    m_Address: Ground_Standart_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 62cfaa36680ed4e139fc622ea0c89588
+    m_Address: Ground_Standart_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: 73a8a86c2ca6d4e8f84dcca5ee9b3577
+    m_Address: Ground_Standart_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: c0ffecb0762684edb975bc6c21b85bf0
+    m_Address: Ground_Standart_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  - m_GUID: f03385e3589fe4a8188ab1aeb756fa90
+    m_Address: Ground_Standart_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Decorations
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6fccad4d36e484b74bf00bff06fcab4d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5f1781721fdaa4739bb521ffbce1e575, type: 2}
+    - {fileID: 11400000, guid: f3f52588446e744a987da168e7ea8681, type: 2}
